@@ -29,7 +29,7 @@ El diseño se desarrolló en dos etapas:
 
 1.  **Figma:** Creación de un prototipo funcional para definir la disposición de los elementos ([UX](https://www.figma.com/proto/HPPeW661UF5EMZeLakI5js/Sin-t%C3%ADtulo?node-id=1-10&p=f&t=ITUh7TkdQk8PeveF-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A10&show-proto-sidebar=1)).
 
-2.  **Looker Studio:** Implementación del estilo visual definitivo y la interfaz de usuario ([UI]().
+2.  **Looker Studio:** Implementación del estilo visual definitivo y la interfaz de usuario ([UI]()).
 
 ---
 
