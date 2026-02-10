@@ -22,8 +22,6 @@ Se utilizó **Google Sheets** para garantizar la calidad de la información:
 * Unificación de tablas para crear una base de datos coherente.
 * Preparación de datos para herramientas de visualización.
 
-[Base de datos en Google Sheets](https://docs.google.com/spreadsheets/d/1hc6vXfyQRbtFFQxUKPNxkPR3PF7tkNp-CP5PJD089Fg/edit?gid=0#gid=0)
-
 ---
 
 ### 3. Arquitectura Visual (Dashboard)
@@ -31,7 +29,7 @@ El diseño se desarrolló en dos etapas:
 
 1.  **Figma:** Creación de un prototipo funcional para definir la disposición de los elementos ([UX](https://www.figma.com/proto/HPPeW661UF5EMZeLakI5js/Sin-t%C3%ADtulo?node-id=1-10&p=f&t=ITUh7TkdQk8PeveF-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A10&show-proto-sidebar=1)).
 
-2.  **Looker Studio:** Implementación del estilo visual definitivo y la interfaz de usuario ([UI](https://lookerstudio.google.com/reporting/8d5e4ba1-63c4-4fed-8f6d-c1b2d7eaaf07)).
+2.  **Looker Studio:** Implementación del estilo visual definitivo y la interfaz de usuario ([UI]().
 
 ---
 
