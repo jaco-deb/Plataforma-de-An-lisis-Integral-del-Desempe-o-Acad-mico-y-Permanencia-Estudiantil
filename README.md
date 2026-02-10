@@ -9,7 +9,7 @@ Debido a la confidencialidad de los datos reales, se utilizaron **datasets simul
 * **EHPM:** Encuesta de Hogares de Propósitos Múltiples.
 * **Estudios del Banco Mundial:** Análisis sobre pobreza y desigualdad.
 
-![Texto alternativo](assets/diagrama.png)
+![Texto alternativo](assets/diagrama.PNG)
 
 [Diagrama de los datos](https://drive.google.com/file/d/1lGCZtPIlKLAortr4YwYZS950bHEfmhZm/view)
 [Datos utilizados](https://github.com/ivaniaHer/analitica-desercion-educativa-sv/tree/main/data)
